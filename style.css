@@ -1,0 +1,12 @@
+.box {
+    width: 240px;
+    height: auto;
+    background-color: aqua;
+    box-shadow: 0 12px 19px black;
+}
+.block {
+    width: 210px;
+    height: 190px;
+    background-color: green;
+    box-shadow: 0 12px 19px black;
+}
